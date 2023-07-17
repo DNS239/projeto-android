@@ -30,9 +30,9 @@
 
 header {
     background-image: linear-gradient(to bottom, var(--cor3), var(--cor4));
-    min-height: 270px;
+    min-height:160px;
     text-align: center;
-    padding-top: 40px;
+    padding-top: 8px;
 }
 
 header > h1 {
@@ -40,7 +40,7 @@ header > h1 {
     font-family: var(--font-destaque);
     font-size: 3em;
     font-weight: normal;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.808);
 }
 
@@ -52,7 +52,7 @@ header > p {
     padding-left: 10px;
     max-width: 600px;
     margin: auto;
-    margin-bottom: 7px;
+    padding-bottom: 20px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.808);
 
 }
